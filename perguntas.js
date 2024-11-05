@@ -1,17 +1,3 @@
-//variaveis
-
-
-//funções
-
-
-//chamadas
-
-criaCartao(
-    'Programação',
-    'O que é JavaScript?',
-    'O JavaScript é uma linguagem de programação',
-)
-
 criaCartao(
     'Programação',
     'O que é Python?',
@@ -31,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Literatura',
-    'Qual é o nome da Saga de Arlen Fardos?',
-    'O nome é Ciclo Das Trevas'
+    'Lingua inglesa',
+    'Como se diz oi em Inglês?',
+    'Oi em ingles é HI (RAI)'
 )
